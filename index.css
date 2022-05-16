@@ -87,6 +87,8 @@ body {
 .fourthContainer {
     height: 100vh;
     padding: 100px;
+    display: flex;
+    flex-wrap:wrap;
 }
 
 #fourthLogo {
