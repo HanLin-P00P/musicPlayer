@@ -1,0 +1,159 @@
+body {
+    margin: 0;
+}
+
+#first {
+    background-image: url(image/home.png);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 12px;
+}
+
+#second {
+    background-color: rgb(209, 248, 248);
+    height: 100vh;
+    width: 100vw;
+}
+
+#third {
+    background-image: url(image/thirdBackground.png);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+#fourth {
+    background-image: url(image/fourthBackground.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+#navLogo {
+    height: 64px;
+    border-radius: 50%;
+}
+
+.mainButtonParent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.mainButton {
+    display: flex;
+    align-self: center;
+    padding: 12px 48px;
+    font-style: italic;
+}
+
+.nav-link {
+    margin: 12px;
+}
+
+.nav-link:hover {
+    background-color: burlywood;
+    border-bottom: 4px solid wheat;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 8px;
+    text-decoration: transparent;
+}
+
+.secondContainer {
+    padding: 106px 106px 66px 106px;
+    display: flex;
+    flex-direction: row;
+}
+
+.h1Text {
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+#thirdContainer {
+    height: 100vh;
+    width: 500px;
+    margin-left: 50px;
+    padding-top: 100px;
+    text-align: center;
+    color: rgba(0,0,255,0.3);
+}
+
+.fourthContainer {
+    height: 100vh;
+    padding: 100px;
+}
+
+#fourthLogo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 200px;
+    width: 100%;
+    margin-top: -130px;
+}
+
+.fourthLogo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 50px;
+    border: 3px solid rgb(199, 194, 194);
+}
+
+#fourthContact {
+    background-color: transparent;
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 5px;
+    border: 5px solid rgb(199, 194, 194);
+    backdrop-filter: blur(5px);
+}
+
+.forContact {
+    height: 300px;
+    padding: 50px;
+    text-align: center;
+    
+}
+
+h1 > em {
+    font-weight: bolder;
+    color: rgb(251, 255, 0);
+}
+
+.contact {
+    font-weight: bolder;
+    margin-top: 48px;
+    font-size: x-large;
+}
+
+.contact:hover {
+    border: 2px solid rgb(28, 114, 243);
+    border-radius: 5px;
+}
+
+div > a {
+    text-decoration: none;
+    color: rgb(251, 255, 0);
+}
+
+.btn-secondary {
+    font-weight: bolder;
+    margin-top: 38px;
+    font-size: x-large;
+    color: rgb(251, 255, 0) !important;
+}
+
+#toTop {
+    float: right;
+    font-size: xx-large;
+    margin-right: -190px;
+
+}
