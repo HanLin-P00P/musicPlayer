@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2516bf99.css",
+    "main.js": "/static/js/main.49bede7a.js",
+    "static/media/Bow.mp3": "/static/media/Bow.381fe33e2c8f304675a4.mp3",
+    "static/media/waterFollowFishFollow.mp3": "/static/media/waterFollowFishFollow.32f7763fb11fe322c235.mp3",
+    "static/media/mayMyoRain.mp3": "/static/media/mayMyoRain.6b610fb174f9cec20a28.mp3",
+    "static/media/maHarBuddha.mp3": "/static/media/maHarBuddha.6df82c84b90d75fafbf1.mp3",
+    "static/media/seinYat.mp3": "/static/media/seinYat.d06dfc1e3e7f6507dc67.mp3",
+    "static/media/koKyinnSar.mp3": "/static/media/koKyinnSar.448ab728fe796e28a402.mp3",
+    "static/media/whenFarAway.mp3": "/static/media/whenFarAway.28e7c035f8e833c216f0.mp3",
+    "static/media/wildLifes.mp3": "/static/media/wildLifes.f72e00c51c413bde232a.mp3",
+    "static/media/flowerLover.mp3": "/static/media/flowerLover.f0734cbb9688e0c695fa.mp3",
+    "static/media/khwelkhwer.mp3": "/static/media/khwelkhwer.c2499570faabcf3eb2c5.mp3",
+    "static/media/emoji.jpg": "/static/media/emoji.61dd3cd09aac730f06bf.jpg",
+    "index.html": "/index.html",
+    "main.2516bf99.css.map": "/static/css/main.2516bf99.css.map",
+    "main.49bede7a.js.map": "/static/js/main.49bede7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2516bf99.css",
+    "static/js/main.49bede7a.js"
+  ]
+}
